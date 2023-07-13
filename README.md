@@ -15,7 +15,7 @@ The projects is based on stocks data of Apple, Google, IBM and Microsoft and per
 - to observe if closing price of each individual stocks are correlated?
   ![StocksClose](https://github.com/SMKProj/StocksDataAnalysis/assets/85155952/42ed8ffc-1332-46f6-b323-f8dc30420751)
 
-- to investigate if closing price of stocks is correlated with daily returns of stocks
+- Exploring if daily change in closing price of stocks or daily returns in stocks are correlated or not?
   ![CloseReturn](https://github.com/SMKProj/StocksDataAnalysis/assets/85155952/a5fd2a3e-43b1-46ac-8b61-9b16e2fc0c12)
 
 
